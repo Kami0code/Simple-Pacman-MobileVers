@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@import "refreshstyle";
+@font-face {
+	font-family: 'Emulogic-zrEw';
+	src: url(/fonts/Emulogic-zrEw.ttf) format('truetype');
+}
+
+
+//переменные через $name: attribute;
+
+
+//Шаблон через %name {attributs: property} запуск через @extend %name
+
+
+//миксины через @mixin name($name) {attribute: $name} запуск через @include name(property)
+
+
+//Основной код
+
+body {
+
+}
